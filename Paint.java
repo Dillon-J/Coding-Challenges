@@ -3,7 +3,7 @@
 * Write a description of class Paint here.
 *
 * @author (Dillon Johnson)
-* @version (10/1/2020)
+* @version (10/21/2020)
 */
 import java.util.Scanner;
 public class Paint
